@@ -15,6 +15,14 @@ This Streamlit-based application provides an intuitive interface for summarizing
   - Very Short (25% of original)
 - **Real-Time Processing**: Instantly generate summaries with visual feedback
 - **Word Count Statistics**: View original and target summary word counts
+## Demo
+1. Not Deployed(StreamlitVersion)
+<img src="streamlitV.png"></img>
+
+
+2. Deployed version(Django + ReactVersion)
+"A Text Summarizer using Hugging Face Transformers (DistilBART), integrated with Django REST API. Attempted AWS deployment on low-resource EC2 instance. Learned about real-world deployment constraints and optimization."
+<img src="djangoV.png"></img>
 
 ## Installation
 
